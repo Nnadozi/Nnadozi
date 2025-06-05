@@ -1,7 +1,7 @@
 <h3>🚀 Software Developer</h3>
 <p>
-  Specializes in building <strong>cross-platform mobile apps</strong> using <strong>React Native</strong> and <strong>Expo</strong>. 
-  Also has experience in <strong>web development</strong> and <strong>game development</strong>. 
+  I specialize in building <strong>cross-platform mobile apps</strong> using <strong>React Native</strong> and <strong>Expo</strong>. 
+  I also have experience in <strong>web development</strong> and <strong>game development</strong>. 
   Quick learner who enjoys solving problems and exploring new technologies.
 </p>
 
