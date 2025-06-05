@@ -24,12 +24,6 @@
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" /></a>
 </p>
 
-### 🤝 Reach Out
-<p>
-  <a href="https://www.linkedin.com/in/chikaosolu-nnadozie-798424279/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
-  </a>
-</p>
 
 
 
