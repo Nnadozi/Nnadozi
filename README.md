@@ -4,10 +4,13 @@
   I also have experience in <strong>web development</strong> and <strong>game development</strong>. 
   Quick learner who enjoys solving problems and exploring new technologies.
 </p>
+<p>
+  🔨 Currently working on <a href="https://github.com/Nnadozi/Termy" target="_blank">Termy</a>, an AI vocabulary app
+</p>
 
-### 🧰 Languages & Tools
+<h3>🧰 Languages & Tools</h3>
 
-<p >
+<p>
   <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40" alt="React Native" /></a>
   <a href="https://expo.dev" target="_blank"><img src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" width="40" height="40" alt="Expo" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /></a>
@@ -23,7 +26,3 @@
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" /></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" /></a>
 </p>
-
-
-
-
