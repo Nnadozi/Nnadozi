@@ -5,7 +5,7 @@
   Quick learner who enjoys solving problems and exploring new technologies.
 </p>
 <p>
-  🔨 Currently working on <a href="https://github.com/Nnadozi/Termy" target="_blank">Termy</a>, an AI vocabulary app
+  🔨 Currently working on <a href="https://github.com/Nnadozi/Termy" target="_blank">Termy</a>, a mobile app taking a unique twist on vocab learning.
 </p>
 
 <h3>🧰 Languages & Tools</h3>
