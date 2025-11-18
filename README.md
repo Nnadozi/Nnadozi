@@ -5,7 +5,6 @@
   Quick learner who enjoys solving problems and exploring new technologies.
 </p>
 <p>
-  🔨 Currently working on <a href="https://github.com/Nnadozi/ARTag" target="_blank">ARTag</a>, an Augmented Reality mobile app.
 
 <h3>🧰 Languages & Tools</h3>
 
