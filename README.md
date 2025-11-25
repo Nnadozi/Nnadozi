@@ -1,14 +1,10 @@
-<h3>🚀 Software Developer</h3>
-<p>
-  I specialize in building <strong>cross-platform mobile apps</strong> using <strong>React Native</strong> and <strong>Expo</strong>. 
-  I also have experience in <strong>web development</strong> and <strong>game development</strong>. 
-  Quick learner who enjoys solving problems and exploring new technologies.
-</p>
-<p>
+<h3>🚀 Software Developer</h3> <p> I specialize in building <strong>cross-platform mobile apps</strong> using <strong>React Native</strong> and <strong>Expo</strong>. I also have experience in <strong>web development</strong> and <strong>game development</strong>. Quick learner who enjoys solving problems and exploring new technologies. </p> <p>
 
 <h3>🧰 Languages & Tools</h3>
 
 <p>
+  <!-- Existing icons... -->
+
   <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40" alt="React Native" /></a>
   <a href="https://expo.dev" target="_blank"><img src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" width="40" height="40" alt="Expo" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /></a>
@@ -24,9 +20,13 @@
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma" /></a>
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" /></a>
   <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" /></a>
-  <a href="https://www.python.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-</a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /></a>
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" /></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" /></a>
+  <a href="https://github.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+  </a>
+  <a href="https://git-scm.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" />
+  </a>
 </p>
